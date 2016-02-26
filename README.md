@@ -7,6 +7,9 @@ to get you started.
 
 You will find PyDoc generated doc in cmdbuild.html
 
+Requires CMDBuild v2.3.0 or higher - older versions lack the REST v1 API.
+
 Good luck.
+
 
 
